@@ -1,16 +1,16 @@
 {
   "name": "s-feed",
   "version": "1.0.0",
-  "description": "A web development project created by Raindrop Agency.",
+  "description": "Fetches simple Instagram data using the Basic Display API.",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/raindrops/wp-raindrop-theme.git"
+    "url": "https://github.com/EsunaDev/S-Feed.git"
   },
   "scripts": {
     "start": "gulp",
     "compile": "gulp compile"
   },
-  "author": "Raindrop Agency",
+  "author": "Esuna",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.0.0",
