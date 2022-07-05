@@ -1,0 +1,28 @@
+{
+  "name": "s-feed",
+  "version": "1.0.0",
+  "description": "A web development project created by Raindrop Agency.",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/raindrops/wp-raindrop-theme.git"
+  },
+  "scripts": {
+    "start": "gulp",
+    "compile": "gulp compile"
+  },
+  "author": "Raindrop Agency",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^2.0.0"
+  },
+  "dependencies": {}
+}
